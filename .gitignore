@@ -1,0 +1,6 @@
+*.o
+ciphers.c
+ciphers.h
+example
+lib
+futhark.pkg
