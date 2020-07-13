@@ -4,3 +4,4 @@ ciphers.h
 example
 lib
 futhark.pkg
+f_example.h

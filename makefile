@@ -17,7 +17,7 @@ endif
 
 .PHONY=sync clean 
 
-example: Ciphers/example.o Ciphers/ciphers.o
+example: f_example.o example.o
 	$(CC) $(CFLAGS) $(notdir $^) -o $@ $(LIBS)
 
 sync:
